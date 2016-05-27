@@ -20,7 +20,7 @@ http://televiz.net/tvv/viva.m3u8
 http://televiz.net/tvv/vivap.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/one.png" group-title="Israel" tvg-logo="one.png",One ערוץ [B][COLOR lime] ישראל - [/COLOR][/B]
 http://82.80.192.13:1935/plph_PelOneHD1Repeat/_definst_/smil:PelOneHD1.smil/chunklist.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
 http://82.80.192.28:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8
 #EXTINF:21 logo="http://anarchitv.co/TV/Logos/21.png" channel-id="21" epg-id="21" group-title="Israel" tvg-logo="21.png",ערוץ הקניות [B][COLOR lime] ישראל - [/COLOR][/B]
 http://80.244.172.12:80/ch21Live/ch21Live_med.m3u8
