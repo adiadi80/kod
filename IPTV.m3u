@@ -8,6 +8,8 @@ http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
 http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear10.smil/playlist.m3u8
 #EXTINF:3 logo="http://zoomtv.co.il/wp-content/uploads/2016/03/red_logo.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", Zoom B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear6.smil/playlist.m3u8
+#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", ערוץ הילדים B][COLOR lime] ערוצים-  [/COLOR][/B]
+http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/playlist.m3u8
 ###################################################################################################
 ###################################################################################################
 
