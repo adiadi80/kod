@@ -4,10 +4,8 @@
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 #EXTINF:2 logo="http://www.rahatsiz.com.tr/wp-content/uploads/2014/06/fashion-tv_01.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", ערוץ האופנה[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
-#EXTINF:2 logo="http://www.rahatsiz.com.tr/wp-content/uploads/2014/06/fashion-tv_01.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", YES SPORT 1 HD IL[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://www.x-media.tv:58080/live/mamadainfernal/satlover.com/1873.ts
-#EXTINF:2 logo="http://www.rahatsiz.com.tr/wp-content/uploads/2014/06/fashion-tv_01.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", YES SPORT 2 HD IL[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://www.x-media.tv:58080/live/mamadainfernal/satlover.com/1874.ts
+#EXTINF:-1,ISR: ויוה+
+http://www.x-media.tv:58080/live/mamadainfernal/satlover.com/1846.ts
 ###################################################################################################
 ###################################################################################################
 
