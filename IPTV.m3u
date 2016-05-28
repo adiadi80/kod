@@ -4,8 +4,10 @@
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 #EXTINF:2 logo="http://www.rahatsiz.com.tr/wp-content/uploads/2014/06/fashion-tv_01.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", ערוץ האופנה[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
-#EXTINF:3 logo="http://www.rahatsiz.com.tr/wp-content/uploads/2014/06/fashion-tv_01.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", ויוה+[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://www.x-media.tv:58080/live/abdlla/satlover.com/1874.ts
+#EXTINF:3 logo="http://f.nanafiles.co.il/upload/Xternal/IsraBlog/61/74/62/627461/posts/18795622.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", ניקולודיון[B][COLOR lime] ערוצים-  [/COLOR][/B]
+http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear10.smil/playlist.m3u8
+#EXTINF:3 logo="http://zoomtv.co.il/wp-content/uploads/2016/03/red_logo.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", Zoom B][COLOR lime] ערוצים-  [/COLOR][/B]
+http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear6.smil/playlist.m3u8
 ###################################################################################################
 ###################################################################################################
 
