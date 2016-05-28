@@ -1,6 +1,9 @@
 #EXTM3U
 ###########################################################################################
-
+#EXTINF:11 logo="http://cdn2-www.craveonline.com/assets/uploads/2014/08/justintv.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png", גסטין tv[B][COLOR lime] ערוצים-  [/COLOR][/B]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+###################################################################################################
+###################################################################################################
 
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]27/5 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://w.com
@@ -758,10 +761,7 @@ http://flash.softhost.com.br:1935/fonte/fontetv.stream/live.m3u8
 
 ###################################################################################################
 ###################################################################################################
-#EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png", גסטין tv[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-###################################################################################################
-###################################################################################################
+
 #EXTINF:-1 group-title="Radio" radio="true",גלגל"צ [B][COLOR grey] רדיו - [/COLOR][/B]
 http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",גלי צה"ל [B][COLOR grey] רדיו - [/COLOR][/B]
