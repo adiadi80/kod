@@ -4,7 +4,7 @@
 
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]27/5 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://w.com
-#EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png", 1עדי[B][COLOR lime] ישראל - [/COLOR][/B]
+#EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png", עדי[B][COLOR lime] ישראל - [/COLOR][/B]
 rtsp://s3yfl.castup.net:1935/993850051-123.flv
 #EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png",הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
 http://televiz.net/tvv/1.m3u8
