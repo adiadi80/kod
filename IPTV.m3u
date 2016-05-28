@@ -10,6 +10,8 @@ http://sw.gostreaming.tv:1935/live/smil:myStream.smil/playlist.m3u8
 http://televiz.net/tvv/1.m3u8
 #EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/2livek.m3u8
+#EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8
 #EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/ch10grabber.m3u8
 #EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
