@@ -16,6 +16,10 @@ http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/playlist
 http://94.74.65.100:19123/ott/64:1122 
 #EXTINF:3 logo="http://mms.businesswire.com/media/20160307006388/en/447793/5/NatGeoWild_RGB_black.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",NAT GEO WILD [B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://151.249.128.75:4022/udp/224.200.100.53:1234
+#EXTINF:3 logo="http://img.wcdn.co.il/w/w-300/167327-18.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",דיסקברי[B][COLOR lime] ערוצים-  [/COLOR][/B]
+http://217.197.240.78:4022/udp/234.0.19.4:1234
+
+
 
 
 
