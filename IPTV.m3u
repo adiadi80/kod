@@ -18,6 +18,8 @@ http://94.74.65.100:19123/ott/64:1122
 http://151.249.128.75:4022/udp/224.200.100.53:1234
 #EXTINF:3 logo="http://img.wcdn.co.il/w/w-300/167327-18.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",דיסקברי[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://217.197.240.78:4022/udp/234.0.19.4:1234
+#EXTINF:3 logo="http://teve.ba/img/articles/1916.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",MTV-LIVE[B][COLOR lime] ערוצים-  [/COLOR][/B]
+http://vod.oneplay.tv/WTS_MEDIA:cd8b8d34ccd77f3c6876ecd2a7aaef4d/01/701/PROFILE03-64/1384-20160602T024613.ts
 
 
 
