@@ -6,6 +6,9 @@ http://www.x-media.tv:58080/live/luanda75/satlover.com/1850.ts
 #EXTINF:1 logo="http://www.mejoreswebsporno.lol/wp-content/uploads/2015/11/083109_xxx_entertainment_logo-001.png" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png", tv[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.mejoreswebsporno.lol/wp-content/uploads/2015/11/083109_xxx_entertainment_logo-001.png" group-title="Adultos",Passion XXX
+http://178.33.126.213:1935/leved/passielivestream/chunklist.m3u8
+
 #EXTINF:1 logo="http://cdn2-www.craveonline.com/assets/uploads/2014/08/justintv.png" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png", גסטין tv[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
