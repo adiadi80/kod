@@ -1,6 +1,9 @@
 #EXTM3U
 ###########################################################################################
 
+#EXTINF:1 logo="http://www.mapsutim.co.il/images/israel-tv/22.jpg" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",ערוץ 22[B][COLOR lime] ערוצים-  [/COLOR][/B]
+http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_live1/playlist.m3u8
+
 #EXTINF:1 logo="http://cdn2-www.craveonline.com/assets/uploads/2014/08/justintv.png" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png", גסטין tv[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
