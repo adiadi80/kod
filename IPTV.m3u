@@ -25,6 +25,19 @@ http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/playlist
 #EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", MTV-HITS[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://94.74.65.100:19123/ott/64:1122 
 
+
+#EXTINF:0, [COLOR orange]VEVO 1 HD [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+
+#EXTINF:0, [COLOR orange]VEVO 3 HD[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:0, [COLOR orange]DJING[/COLOR]
+http://www.djing.com/tv/h-05.m3u8
+
+
+
 #EXTINF:3 logo="http://teve.ba/img/articles/1916.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",MTV-LIVE[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://vod.oneplay.tv/WTS_MEDIA:cd8b8d34ccd77f3c6876ecd2a7aaef4d/01/701/PROFILE03-64/1384-20160602T024613.ts
 
