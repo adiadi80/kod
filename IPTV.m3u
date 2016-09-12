@@ -1,7 +1,7 @@
 #EXTM3U
 ###########################################################################################
 
-#EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
+#EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ערוצים-- [/COLOR][/B]
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
 #EXTINF:1 logo="http://www.mapsutim.co.il/images/israel-tv/22.jpg" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",ערוץ 22[B][COLOR lime] ערוצים-  [/COLOR][/B]
