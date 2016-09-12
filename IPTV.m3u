@@ -1,6 +1,9 @@
 #EXTM3U
 ###########################################################################################
 
+#EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+
 #EXTINF:1 logo="http://www.mapsutim.co.il/images/israel-tv/22.jpg" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",ערוץ 22[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
 
@@ -61,8 +64,7 @@ http://w.com
 http://televiz.net/tvv/1.m3u8
 #EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/2livek.m3u8
-#EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
-http://anarchitv.co/tvv/ch10grabber.m3u8
+
 #EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
 rtmp://89.163.134.104:2000/site/anal911_..........
 #EXTINF:20 logo="http://anarchitv.co/TV/Logos/20.png" channel-id="20" epg-id="20" group-title="Israel" tvg-logo="20.png",ערוץ 20 [B][COLOR lime] ישראל - [/COLOR][/B]
