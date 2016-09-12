@@ -25,15 +25,14 @@ http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/playlist
 #EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", MTV-HITS[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://94.74.65.100:19123/ott/64:1122 
 
-
-#EXTINF:0, [COLOR orange]VEVO 1 HD [/COLOR]
+#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", VEVO 1 HD[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
-
+#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", VEVO 3 HD[B][COLOR lime] ערוצים-  [/COLOR][/B]
 #EXTINF:0, [COLOR orange]VEVO 3 HD[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:0, [COLOR orange]DJING[/COLOR]
+#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", VDJGIN[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://www.djing.com/tv/h-05.m3u8
 
 
@@ -44,8 +43,6 @@ http://vod.oneplay.tv/WTS_MEDIA:cd8b8d34ccd77f3c6876ecd2a7aaef4d/01/701/PROFILE0
 #EXTINF:3 logo="http://mms.businesswire.com/media/20160307006388/en/447793/5/NatGeoWild_RGB_black.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",NAT GEO WILD [B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://151.249.128.75:4022/udp/224.200.100.53:1234
 
-#EXTINF:3 logo="http://img.wcdn.co.il/w/w-300/167327-18.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",דיסקברי[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://79.133.108.48:8888/udp/239.191.254.34:13343
 
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Channels" tvg-logo="nationalgeographic.png", National Geographic HD-R/E [B][COLOR yellow] ערוצים [/COLOR][/B]
 http://2.137.38.162:4022/udp/239.0.5.78:8208
