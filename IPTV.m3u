@@ -6,7 +6,7 @@
 http://cdn.tvtogo.co.il:1935/CH_10/smil:C7.smil/chunklist_w1716709127_b1200000.m3u8?token=f8dbb385-6dc9-4297-86c3-2902368248c0
 
 #EXTINF:1 logo="http://www.mapsutim.co.il/images/israel-tv/22.jpg" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",ערוץ 22[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://cdn.tvtogo.co.il:1935/CH_22/smil:C8.smil/chunklist_w1212692820_b1200000.m3u8?token=edf30ae3-7cd6-487a-914c-773e2984e7f3
+http://keshethdioslive-i.akamaihd.net/hls/live/221629/CH2LIVE_MED/index_564.m3u8
 
 #EXTINF:1 logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/77/Logo_UEFA_Euro_2016.png/250px-Logo_UEFA_Euro_2016.png" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",ספורט 2[B][COLOR lime] ערוצים-  [/COLOR][/B]
 http://hotwowza.onecoil.netdna-cdn.com/live1/ngrp:stream_all/playlist.m3u8
