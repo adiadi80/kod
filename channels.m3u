@@ -1,99 +1,12 @@
 #EXTM3U
 #EXTINF:-1,By adi eliyahu
 
-#EXTINF:370 logo="http://images1.ynet.co.il/PicServer2/20022007/1053202/logo-sport1-wht_hh.jpg" channel-id="370" tvg-logo="c370.png" epg-id="370" group-title="Hebrew" ,	Sport 1 HD
+#EXTINF:370 logo="http://images1.ynet.co.il/PicServer2/20022007/1053202/logo-sport1-wht_hh.jpg" channel-id="370" tvg-logo="c370.png" epg-id="370" group-title="Hebrew" ,ספורט 1 HD
 http://dmtn-iptv.com:8080/live/ASadiel400/DEMvW5JMTw/16985.ts
 
-#EXTINF:17 logo="http://www.isra.tv/wp-content/uploads/2016/10/sport2HD-520x245.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	Sport 2 HD  
+#EXTINF:17 logo="http://www.isra.tv/wp-content/uploads/2016/10/sport2HD-520x245.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	ספורט 2 HD  
 http://dmtn-iptv.com:8080/live/ASadiel400/DEMvW5JMTw/16986.ts
 
-#EXTINF:18 logo="http://televiz.net/static/img/logos/c18.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,	ערוץ הקבלה 
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-
-#EXTINF:24 logo="http://televiz.net/static/img/logos/c24.png" channel-id="24" tvg-logo="c24.png" epg-id="24" group-title="Hebrew" ,	ערוץ המוזיקה  
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
-
-#EXTINF:369 logo="http://televiz.net/static/img/logos/c369.png" channel-id="369" tvg-logo="c369.png" epg-id="369" group-title="Hebrew" ,	ערוץ 22 רשת - ימי רביעי עד שבת 
-http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
-
-#EXTINF:348 logo="http://televiz.net/static/img/logos/c348.png" channel-id="348" tvg-logo="c348.png" epg-id="348" group-title="Hebrew" ,	ערוץ 22 רשת (HD) - ימי רביעי עד שבת  
-http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
-
-#EXTINF:20 logo="http://televiz.net/static/img/logos/c20.png" channel-id="20" tvg-logo="c20.png" epg-id="20" group-title="Hebrew" ,	ערוץ 20 
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
-
-#EXTINF:603 logo="http://televiz.net/static/img/logos/c603.png" channel-id="603" tvg-logo="c603.png" epg-id="603" group-title="Hebrew" ,	ערוץ 2 - כל השבוע (4) 
-
-
-#EXTINF:340 logo="http://televiz.net/static/img/logos/c340.png" channel-id="340" tvg-logo="c340.png" epg-id="340" group-title="Hebrew" ,	ערוץ 2 - כל השבוע (3) 
-http://89.45.186.26:1935/live/787/manifest.m3u8
-
-#EXTINF:611 logo="http://televiz.net/static/img/logos/c611.png" channel-id="611" tvg-logo="c611.png" epg-id="611" group-title="Hebrew" ,	ערוץ 2 - כל השבוע (2) 
-http://209.222.5.155:1935/live/313/manifest.m3u8
-
-#EXTINF:22 logo="http://televiz.net/static/img/logos/c22.png" channel-id="22" tvg-logo="c22.png" epg-id="22" group-title="Hebrew" ,	ערוץ 2 - כל השבוע (1) 
-http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
-
-#EXTINF:10 logo="http://televiz.net/static/img/logos/c10.png" channel-id="10" tvg-logo="c10.png" epg-id="10" group-title="Hebrew" ,	ערוץ 10 
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1800000.m3u8
-
-#EXTINF:16 logo="http://televiz.net/static/img/logos/c16.png" channel-id="16" tvg-logo="c16.png" epg-id="16" group-title="Hebrew" ,	חדשות 22 
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-
-#EXTINF:11 logo="http://televiz.net/static/img/logos/c11.png" channel-id="11" tvg-logo="c11.png" epg-id="11" group-title="Hebrew" ,	הערוץ הראשון 
-http://50.7.149.26:6969/live/App0039/1ye2nsjnRN/4032.ts
-
-#EXTINF:99 logo="http://televiz.net/static/img/logos/c99.png" channel-id="99" tvg-logo="c99.png" epg-id="99" group-title="Hebrew" ,	הערוץ הכנסת 
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-
-#EXTINF:19 logo="http://televiz.net/static/img/logos/c19.png" channel-id="19" tvg-logo="c19.png" epg-id="19" group-title="Hebrew" ,	הידברות 
-http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8
-
-#EXTINF:621 logo="http://televiz.net/static/img/logos/c621.png" channel-id="621" tvg-logo="c621.png" epg-id="621" group-title="Hebrew" ,	גלצ 
-http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8
-
-#EXTINF:622 logo="http://televiz.net/static/img/logos/c622.png" channel-id="622" tvg-logo="c622.png" epg-id="622" group-title="Hebrew" ,	גלגלצ 
-http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
-
-#EXTINF:602 logo="http://televiz.net/static/img/logos/c602.png" channel-id="602" tvg-logo="c602.png" epg-id="602" group-title="Russian" ,	Канал Израиль 
-rtmp://89.163.134.104:2000/site/anal911_..........
-
-#EXTINF:604 logo="http://televiz.net/static/img/logos/c604.png" channel-id="604" tvg-logo="c604.png" epg-id="604" group-title="English" ,	Vevo 2 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-#EXTINF:304 logo="http://televiz.net/static/img/logos/c304.png" channel-id="304" tvg-logo="c304.png" epg-id="304" group-title="English" ,	TWIT 
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-
-#EXTINF:50 logo="http://televiz.net/static/img/logos/c50.png" channel-id="50" tvg-logo="c50.png" epg-id="50" group-title="English" ,	Red Bull TV 
-https://elementaldelta2.redbull.tv/30_5.m3u8
-
-#EXTINF:339 logo="http://televiz.net/static/img/logos/c339.png" channel-id="339" tvg-logo="c339.png" epg-id="339" group-title="English" ,	Real Madrid TV 
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:48 logo="http://televiz.net/static/img/logos/c48.png" channel-id="48" tvg-logo="c48.png" epg-id="48" group-title="English" ,	RT Documentry 
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-
-#EXTINF:606 logo="http://televiz.net/static/img/logos/c606.png" channel-id="606" tvg-logo="c606.png" epg-id="606" group-title="English" ,	KIRO 7 Washington 
-http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
-
-#EXTINF:358 logo="http://televiz.net/static/img/logos/c358.png" channel-id="358" tvg-logo="c358.png" epg-id="358" group-title="English" ,	Fox Sports 2 
-rtmp://138.201.155.39:62468/channel2/?channel1/myStream
-
-#EXTINF:357 logo="http://televiz.net/static/img/logos/c357.png" channel-id="357" tvg-logo="c357.png" epg-id="357" group-title="English" ,	Fight sports 
-http://93.87.85.71/PLTV/88888888/224/3221226585/04.m3u8
-
-#EXTINF:303 logo="http://televiz.net/static/img/logos/c303.png" channel-id="303" tvg-logo="c303.png" epg-id="303" group-title="English" ,	Eurosport 2 -En/Ru 
-http://212.19.5.123:7088/udp/239.191.254.47:13343
-
-#EXTINF:333 logo="http://televiz.net/static/img/logos/c333.png" channel-id="333" tvg-logo="c333.png" epg-id="333" group-title="English" ,	Euronews 
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
-
-#EXTINF:327 logo="http://televiz.net/static/img/logos/C327.png" channel-id="327" tvg-logo="C327.png" epg-id="327" group-title="English" ,	CNN 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b300000.m3u8
-
-#EXTINF:448 logo="http://televiz.net/static/img/logos/c448.png" channel-id="448" tvg-logo="c448.png" epg-id="448" group-title="English" ,	Bloomberg 
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
-
-#EXTINF:610 logo="http://televiz.net/static/img/logos/c610.png" channel-id="610" tvg-logo="c610.png" epg-id="610" group-title="English" ,	BBC World News 
-http://185.5.40.103/hls/session-7277650dSZiIoePihEoFGSr/CH_BBCWORLDNEWS/variant.m3u8?version=2
+#EXTINF:18 logo="http://televiz.net/static/img/logos/c18.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,	ערוץ 2 
+http://dmtn-iptv.com:8080/live/ASadiel400/DEMvW5JMTw/5977.ts
 
