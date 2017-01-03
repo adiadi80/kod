@@ -2,58 +2,8 @@
 ###########################################################################################
 
 
-#EXTINF:1 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",10  מר רובוט ערוץ[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://s170.zerocdn.to/dl/c4ccf80eda9d480b0876334918f324d5/58448297/ffefee08aefcae3e3ca3e2b04b8361d13c.flv
-
-#EXTINF:1 logo="http://www.mapsutim.co.il/images/israel-tv/22.jpg" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",ערוץ 22[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://keshethdioslive-i.akamaihd.net/hls/live/221629/CH2LIVE_MED/index_564.m3u8
-
-#EXTINF:1 logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/77/Logo_UEFA_Euro_2016.png/250px-Logo_UEFA_Euro_2016.png" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",ספורט 2[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://hotwowza.onecoil.netdna-cdn.com/live1/ngrp:stream_all/playlist.m3u8
-
-#EXTINF:1 logo="http://cdn2-www.craveonline.com/assets/uploads/2014/08/justintv.png" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png", גסטין tv[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-
-#EXTINF:2 logo="http://www.rahatsiz.com.tr/wp-content/uploads/2014/06/fashion-tv_01.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", ערוץ האופנה[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
-
-#EXTINF:3 logo="http://f.nanafiles.co.il/upload/Xternal/IsraBlog/61/74/62/627461/posts/18795622.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", בובספוג[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear10.smil/playlist.m3u8
-
-#EXTINF:3 logo="http://zoomtv.co.il/wp-content/uploads/2016/03/red_logo.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", ניקולודיון [B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear3.smil/chunklist_w453536338_b1164000.m3u8
-
-#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", ערוץ הילדים [B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/playlist.m3u8
-
-#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", MTV-HITS[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://94.74.65.100:19123/ott/64:1122 
-
-#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", VEVO 1 HD[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", VEVO 3 HD[B][COLOR lime] ערוצים-  [/COLOR][/B]
-#EXTINF:0, [COLOR orange]VEVO 3 HD[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-#EXTINF:3 logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/ArutzHayeladim.svg/147px-ArutzHayeladim.svg.png" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png", VDJGIN[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://www.djing.com/tv/h-05.m3u8
-
-
-
-#EXTINF:3 logo="http://teve.ba/img/articles/1916.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",MTV-LIVE[B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://vod.oneplay.tv/WTS_MEDIA:cd8b8d34ccd77f3c6876ecd2a7aaef4d/01/701/PROFILE03-64/1384-20160602T024613.ts
-
-#EXTINF:3 logo="http://mms.businesswire.com/media/20160307006388/en/447793/5/NatGeoWild_RGB_black.jpg" channel-id="2" epg-id="11" group-title="Channels" tvg-logo="1.png",NAT GEO WILD [B][COLOR lime] ערוצים-  [/COLOR][/B]
-http://151.249.128.75:4022/udp/224.200.100.53:1234
-
-
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Channels" tvg-logo="nationalgeographic.png", National Geographic HD-R/E [B][COLOR yellow] ערוצים [/COLOR][/B]
-http://2.137.38.162:4022/udp/239.0.5.78:8208
-
-
-
-
+#EXTINF:1 logo="https://upload.wikimedia.org/wikipedia/he/f/f9/Channel2.svg" channel-id="1" epg-id="11" group-title="Channels" tvg-logo="1.png",22  ערוץ[B][COLOR lime] ערוצים-  [/COLOR][/B]
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/2038.ts
 
 
 ###################################################################################################
