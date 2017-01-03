@@ -1,13 +1,11 @@
 #EXTM3U
+#EXTINF:-1,By adi eliyahu
 
-#EXTINF:-1,By Televiz.net
-http://2.sendvid.com/xujz04xf.mp4
+#EXTINF:370 logo="http://www.isra.tv/wp-content/uploads/2016/10/sport2HD-520x245.png" channel-id="370" tvg-logo="c370.png" epg-id="370" group-title="Hebrew" ,	ערוץ הקניות 
+http://dmtn-iptv.com:8080/live/ASadiel400/DEMvW5JMTw/16985.ts
 
-#EXTINF:17 logo="http://televiz.net/static/img/logos/c17.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	YES Sport 2 HD  
+#EXTINF:17 logo="http://televiz.net/static/img/logos/c17.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	Sport 2 HD  
 http://dmtn-iptv.com:8080/live/ASadiel400/DEMvW5JMTw/16986.ts
-
-#EXTINF:370 logo="http://televiz.net/static/img/logos/c370.png" channel-id="370" tvg-logo="c370.png" epg-id="370" group-title="Hebrew" ,	ערוץ הקניות 
-http://80.244.172.12/ch21Live/ch21Live_med.m3u8?user=&amp;session=&amp;hlsid=HTTP_ID_10605591&amp;group_id=-1&amp;starttime=20160330T090211.360106
 
 #EXTINF:18 logo="http://televiz.net/static/img/logos/c18.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,	ערוץ הקבלה 
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
