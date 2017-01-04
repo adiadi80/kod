@@ -25,6 +25,9 @@ http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7872.ts
 #EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס דרמה 
 http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7872.ts
 
+#EXTINF:18 logo="http://www.edb.co.il/blog/wp-content/static/2010/02/hot3hd.jpg" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט 3 HD 
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7834.ts
+
 #EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 9
 http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7853.ts
 
