@@ -25,6 +25,29 @@ http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7872.ts
 #EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס דרמה 
 http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7872.ts
 
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 9
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7853.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 10
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7854.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט אקשן
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7835.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט דרמה
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7840.ts
+
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט פאן
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7843.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט גולד
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7844.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט HBO
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7847.ts
+
+
 
 
 #EXTINF:370 logo="http://images1.ynet.co.il/PicServer2/20022007/1053202/logo-sport1-wht_hh.jpg" channel-id="370" tvg-logo="c370.png" epg-id="370" group-title="Hebrew" ,ספורט 1 HD
