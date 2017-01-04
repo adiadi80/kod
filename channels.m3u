@@ -1,12 +1,39 @@
 #EXTM3U
 #EXTINF:-1,By adi eliyahu
 
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 1 
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7855.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 2 
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7857.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 3
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7859.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 4 
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7861.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 5 
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7863.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס אקשן 
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7865.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס דרמה 
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7872.ts
+
+#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס דרמה 
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7872.ts
+
+
+
 #EXTINF:370 logo="http://images1.ynet.co.il/PicServer2/20022007/1053202/logo-sport1-wht_hh.jpg" channel-id="370" tvg-logo="c370.png" epg-id="370" group-title="Hebrew" ,ספורט 1 HD
-http://dmtn-iptv.com:8080/live/ASadiel400/DEMvW5JMTw/16985.ts
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/3983.ts
 
 #EXTINF:17 logo="http://www.isra.tv/wp-content/uploads/2016/10/sport2HD-520x245.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	ספורט 2 HD  
-http://dmtn-iptv.com:8080/live/ASadiel400/DEMvW5JMTw/16986.ts
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/3984.ts
 
-#EXTINF:18 logo="http://televiz.net/static/img/logos/c18.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,	ערוץ 2 
-http://dmtn-iptv.com:8080/live/ASadiel400/DEMvW5JMTw/5977.ts
+#EXTINF:18 logo="http://televiz.net/static/img/logos/c18.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,	 HOT 3 HD
+http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7834.ts
+
 
