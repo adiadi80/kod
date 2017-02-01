@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1,===== ויקינגים עונה 3 =====
-#EXTINF:-1,ISR: פרק 3
-http://188.240.220.134/hls/kruqjrc77q2qedz7niwb7sj5khu3hdq5ha3mriop7lhgmw2s4sqimbtaczda/chunk.m3u8
-#EXTINF:-1,ISR: פרק 4
-
 #EXTINF:-1,===== ISRAEL =====
 http://iptvlocal.com/
-#EXTINF:-1,ISR: Chaneel 2
-http://188.240.220.134/hls/kruqjrc77q2qedz7niwb7sj5khu3hdq5ha3mriop7lhgmw2s4sqimbtaczda/chunk.m3u8
+#EXTINF:-1,ISR: קשט Chaneel 2
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
 #EXTINF:-1,ISR: Chaneel 10
+#EXTINF:-1,ISR: רשת Chaneel 2
+http://keshethdioslive-i.akamaihd.net/hls/live/221629/CH2LIVE_MED/index_864.m3u8
+
 http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/2039.ts
 #EXTINF:-1,ISR:Hydbrot ( kids )
 http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/2044.ts
