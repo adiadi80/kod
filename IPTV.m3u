@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,===== ISRAEL =====
-http://iptvlocal.com/
+
 #EXTINF:-1,ISR: קשט Chaneel 2
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
-#EXTINF:-1,ISR: Chaneel 10
 #EXTINF:-1,ISR: רשת Chaneel 2
 http://keshethdioslive-i.akamaihd.net/hls/live/221629/CH2LIVE_MED/index_864.m3u8
 
