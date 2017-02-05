@@ -1,11 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,ISR: קשט Chaneel 2
-http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
-#EXTINF:-1,ISR: רשת Chaneel 2
-http://keshethdioslive-i.akamaihd.net/hls/live/221629/CH2LIVE_MED/index_864.m3u8
+#EXTINF:-1,ISR:  Chaneel 2
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/2039.ts
+#EXTINF:-1,ISR:  Chaneel 10
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
+
+
 #EXTINF:-1,ISR:Hydbrot ( kids )
 http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/2044.ts
 #EXTINF:-1,ISR:Channel 20 (music)
