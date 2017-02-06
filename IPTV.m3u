@@ -4,10 +4,10 @@
 http://l2.isramedia.net:1935/live/g1_240p/chunklist_w1351566927.m3u8
 
 #EXTINF:-1,ISR:  Chaneel 22
-http://37.142.91.201:9981/stream/channelid/228405383?
+http://195.35.85.100:8000/play/a052
 
 #EXTINF:-1,ISR:  Chaneel 10
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
+http://195.35.85.100:8000/play/a053
 
 
 #EXTINF:-1,ISR:Hydbrot ( kids )
