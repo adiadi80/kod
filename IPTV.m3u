@@ -10,6 +10,41 @@ http://195.35.85.100:8000/play/a052
 http://195.35.85.100:8000/play/a053
 
 
+
+#EXTINF:-1,IL: ACTION HD IL
+http://live.softiptv.com:9900/live/525/525/25314.ts
+#EXTINF:-1,IL: Baby IL
+http://live.softiptv.com:9900/live/525/525/25313.ts
+#EXTINF:-1,IL: DRAMA HD IL
+http://live.softiptv.com:9900/live/525/525/25312.ts
+#EXTINF:-1,IL: FUN HD IL
+http://live.softiptv.com:9900/live/525/525/25311.ts
+#EXTINF:-1,IL: GOLD HD IL
+http://live.softiptv.com:9900/live/525/525/25310.ts
+#EXTINF:-1,IL: hop IL
+http://live.softiptv.com:9900/live/525/525/25309.ts
+#EXTINF:-1,IL: HOT3 HD IL
+http://live.softiptv.com:9900/live/525/525/25308.ts
+#EXTINF:-1,IL: Nick Jr IL
+http://live.softiptv.com:9900/live/525/525/25307.ts
+#EXTINF:-1,IL: Nickelodeon IL
+http://live.softiptv.com:9900/live/525/525/25306.ts
+#EXTINF:-1,IL: ONE HD IL
+http://live.softiptv.com:9900/live/525/525/25305.ts
+#EXTINF:-1,IL: PLUS  HD IL
+http://live.softiptv.com:9900/live/525/525/25304.ts
+#EXTINF:-1,IL: Sport 1 HD IL
+http://live.softiptv.com:9900/live/525/525/25303.ts
+#EXTINF:-1,IL: Sport 2 HD IL
+http://live.softiptv.com:9900/live/525/525/25300.ts
+#EXTINF:-1,IL: Sport 5  Live HD IL
+http://live.softiptv.com:9900/live/525/525/25302.ts
+#EXTINF:-1,IL: Sport 5 HD IL
+http://live.softiptv.com:9900/live/525/525/25301.ts
+#EXTINF:-1,IL: ZONE HD IL
+http://live.softiptv.com:9900/live/525/525/25299.ts
+
+
 #EXTINF:-1,ISR:Hydbrot ( kids )
 http://clientportalpro.com:2500/live/oDdELNOq5w/qbfhyQ9LrX/4931.ts
 #EXTINF:-1,ISR:Channel 20 (music)
