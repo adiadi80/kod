@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,ISR:  Chaneel 2
-http://l1.isramedia.net:1935/live/s8_240p/chunklist_w1400433796.m3u8
+http://37.142.91.201:9981/play/stream/channel/87309d8d926303dabba815c1e40f56b6?title=%D7%A2%D7%A8%D7%95%D7%A5%202
 
 #EXTINF:-1,ISR:  Chaneel 22
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
