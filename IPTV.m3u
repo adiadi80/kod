@@ -12,8 +12,12 @@ http://195.35.85.100:8000/play/a052
 
 
 
+
 #EXTINF:-1,ISR:  Chaneel 10
 http://195.35.85.100:8000/play/a053
+
+#EXTINF:-1,ISR:  Chaneel 10
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
 
 #EXTINF:-1,ISR:  test
 http://pastebin.com/raw/ssT7zb7h
