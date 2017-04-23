@@ -1,99 +1,25 @@
 #EXTM3U
 #EXTINF:-1,By adi eliyahu
 
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 1 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7855.ts
+#EXTINF:18 logo="" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,1 
+http://media4.zira.online/watch/480/163718.mp4?token=jtzPBwDhbVceskH4YFZKcA&time=1492962045
 
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 2 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7857.ts
+#EXTINF:18 logo="" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,2 
+http://media7.zira.online/watch/480/163719.mp4?token=uzQJEv5BIalbWn6rNbnlLg&time=1492966495
 
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 3
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7859.ts
+#EXTINF:18 logo="" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,3 
+http://media4.zira.online/watch/480/163720.mp4?token=A7pQWLzUwTtIn8U_Mk_fvA&time=1492966662
 
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 4 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7861.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס 5 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7863.ts
+#EXTINF:18 logo="" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,4
+http://media7.zira.online/watch/480/163721.mp4?token=nux7-E8gNumx-VJuvWrOeA&time=1492966949
 
 
-#EXTINF:18 logo="http://www.edb.co.il/blog/wp-content/static/2010/02/hot3hd.jpg" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט 3 HD 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7834.ts
+#EXTINF:18 logo="" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,5
+http://media7.zira.online/watch/480/163721.mp4?token=nux7-E8gNumx-VJuvWrOeA&time=1492966949
 
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס קומדי 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7868.ts
+#EXTINF:18 logo="" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,6
+http://media7.zira.online/watch/480/163722.mp4?token=5HW-FbVK7Vy8RWUidw0HGw&time=1492967021
 
-#EXTINF:18 logo="http://www.edb.co.il/blog/wp-content/static/2010/02/hot3hd.jpg" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" הוט 8 HD 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7838.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 9
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7853.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 10
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7854.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 1
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7850.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט אקשן
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7835.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט דרמה
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7840.ts
-
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט פאן
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7843.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט גולד
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7844.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט HBO
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7847.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט AMC
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7836.ts
-
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס אקשן 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7865.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס דרמה 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7872.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 20 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/2043.ts
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,יס דוקו 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/3985.ts
-
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 22
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7851.ts
-
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,הוט בומבי
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7837.ts
-
-
-#EXTINF:18 logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes2hd.png" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,ערוץ 24
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7886.ts
-
-
-#EXTINF:17 logo="http://www.isra.tv/wp-content/uploads/2016/10/sport2HD-520x245.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	ספורט 5 HD 
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7895.ts
-
-#EXTINF:370 logo="http://images1.ynet.co.il/PicServer2/20022007/1053202/logo-sport1-wht_hh.jpg" channel-id="370" tvg-logo="c370.png" epg-id="370" group-title="Hebrew" ,ספורט 1 HD
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/3983.ts
-
-#EXTINF:17 logo="http://www.isra.tv/wp-content/uploads/2016/10/sport2HD-520x245.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	ספורט 2 HD  
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/3984.ts
-
-#EXTINF:17 logo="http://www.isra.tv/wp-content/uploads/2016/10/sport2HD-520x245.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	ספורט גולד
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7894.ts
-
-#EXTINF:17 logo="http://www.isra.tv/wp-content/uploads/2016/10/sport2HD-520x245.png" channel-id="17" tvg-logo="c17.png" epg-id="17" group-title="Hebrew" ,	ספורט 5 פלוס
-http://iptvarb.selfip.com:6227/live/adielw8/of5Xhsj3Wo/7896.ts
-
+#EXTINF:18 logo="" channel-id="18" tvg-logo="c18.png" epg-id="18" group-title="Hebrew" ,7
 
 
